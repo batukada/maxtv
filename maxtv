@@ -1,9 +1,675 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick Jr HD UK" tvg-logo="http://pici.life/UK/nickjr.png" group-title="United Kingdom",Nick Jr HD UK
-http://mytv.fun:8080/kemal100/fkcjkrj77/15806
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nick Jr Peppa FHD UK" tvg-logo="http://pici.life/logo.png" group-title="United Kingdom",Nick Jr Peppa FHD UK
-http://mytv.fun:8080/kemal100/fkcjkrj77/683407
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nickelodeon FHD VIP UK" tvg-logo="http://pici.life/UK/nickelodeon.png" group-title="United Kingdom",Nickelodeon FHD VIP UK
-http://mytv.fun:8080/kemal100/fkcjkrj77/6572
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nicktoons UK" tvg-logo="http://pici.life/UK/nicktoons.png" group-title="United Kingdom",Nicktoons UK
-http://mytv.fun:8080/kemal100/fkcjkrj77/6570
+#EXTINF:-1 tvg-id="494" tvg-name="001. Al Jazeera Balkan HD" tvg-logo="/noicon.png" group-title="01. EX-Yugo",001. Al Jazeera Balkan HD - 001. Al Jazeera Balkan HD
+http://wrlstr.dvrdns.org:18066/live?channelId=494&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="2" tvg-name="003. BHT 1 HD" tvg-logo="http://facetv.formea.ba:88/imagess/bht1.png" group-title="01. EX-Yugo",003. BHT 1 HD - 003. BHT 1 HD
+http://wrlstr.dvrdns.org:18066/live?channelId=2&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="3" tvg-name="004. FTV" tvg-logo="http://facetv.formea.ba:88/imagess/ftv.png" group-title="01. EX-Yugo",004. FTV - 004. FTV
+http://wrlstr.dvrdns.org:18066/live?channelId=3&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="7" tvg-name="005. FACE HD" tvg-logo="http://facetv.formea.ba:88/imagess/face.png" group-title="01. EX-Yugo",005. FACE HD - 005. FACE HD
+http://wrlstr.dvrdns.org:18066/live?channelId=7&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="400" tvg-name="006. FACE FHD" tvg-logo="/noicon.png" group-title="01. EX-Yugo",006. FACE FHD - 006. FACE FHD
+http://telehetz.dvrdns.org:12345/live?channelId=400&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="4" tvg-name="007. Hayat HD" tvg-logo="http://facetv.formea.ba:88/imagess/hayat.png" group-title="01. EX-Yugo",007. Hayat HD - 007. Hayat HD
+http://wrlstr.dvrdns.org:18066/live?channelId=4&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="290" tvg-name="008. Hayat FHD" tvg-logo="/noicon.png" group-title="01. EX-Yugo",008. Hayat FHD - 008. Hayat FHD
+http://telehetz.dvrdns.org:12345/live?channelId=290&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="289" tvg-name="010. RTS 1" tvg-logo="/noicon.png" group-title="01. EX-Yugo",010. RTS 1 - 010. RTS 1
+http://wrlstr.dvrdns.org:18066/live?channelId=289&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="21" tvg-name="012. RTS 1 FHD" tvg-logo="http://facetv.formea.ba:88/imagess/rts1.png" group-title="01. EX-Yugo",012. RTS 1 FHD - 012. RTS 1 FHD
+http://telehetz.dvrdns.org:12345/live?channelId=21&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="288" tvg-name="013. RTS 2" tvg-logo="/noicon.png" group-title="01. EX-Yugo",013. RTS 2 - 013. RTS 2
+http://wrlstr.dvrdns.org:18066/live?channelId=288&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="287" tvg-name="015. RTS 2 FHD" tvg-logo="/noicon.png" group-title="01. EX-Yugo",015. RTS 2 FHD - 015. RTS 2 FHD
+http://wrlstr.dvrdns.org:18066/live?channelId=287&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="23" tvg-name="016. PRVA HD" tvg-logo="http://facetv.formea.ba:88/imagess/prva.png" group-title="01. EX-Yugo",016. PRVA HD - 016. PRVA HD
+http://wrlstr.dvrdns.org:18066/live?channelId=23&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="377" tvg-name="017. PRVA FHD" tvg-logo="/noicon.png" group-title="01. EX-Yugo",017. PRVA FHD - 017. PRVA FHD
+http://telehetz.dvrdns.org:12345/live?channelId=377&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="438" tvg-name="018. PINK HD" tvg-logo="http://facetv.formea.ba:88/imagess/pink.png" group-title="01. EX-Yugo",018. PINK HD - 018. PINK HD
+http://telehetz.dvrdns.org:12345/live?channelId=438&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="286" tvg-name="019. PINK FHD" tvg-logo="/noicon.png" group-title="01. EX-Yugo",019. PINK FHD - 019. PINK FHD
+http://wrlstr.dvrdns.org:18066/live?channelId=286&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="247" tvg-name="020. B92 HD" tvg-logo="http://facetv.formea.ba:88/imagess/o2TV.png" group-title="01. EX-Yugo",020. B92 HD - 020. B92 HD
+http://wrlstr.dvrdns.org:18066/live?channelId=247&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="548" tvg-name="022. NOVA S HD" tvg-logo="/noicon.png" group-title="01. EX-Yugo",022. NOVA S HD - 022. NOVA S HD
+http://wrlstr.dvrdns.org:18066/live?channelId=548&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="549" tvg-name="023. N1 SR" tvg-logo="/noicon.png" group-title="01. EX-Yugo",023. N1 SR - 023. N1 SR
+http://telehetz.dvrdns.org:12345/live?channelId=549&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="550" tvg-name="024. N1 BH" tvg-logo="/noicon.png" group-title="01. EX-Yugo",024. N1 BH - 024. N1 BH
+http://wrlstr.dvrdns.org:18066/live?channelId=550&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="551" tvg-name="025. HAYAT PLUS" tvg-logo="/noicon.png" group-title="01. EX-Yugo",025. HAYAT PLUS - 025. HAYAT PLUS
+http://wrlstr.dvrdns.org:18066/live?channelId=551&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="395" tvg-name="026. OBN" tvg-logo="http://facetv.formea.ba:88/imagess/obn.png" group-title="01. EX-Yugo",026. OBN - 026. OBN
+http://wrlstr.dvrdns.org:18066/live?channelId=395&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="12" tvg-name="027. OBN." tvg-logo="http://facetv.formea.ba:88/imagess/obn.png" group-title="01. EX-Yugo",027. OBN. - 027. OBN.
+http://telehetz.dvrdns.org:12345/live?channelId=12&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="292" tvg-name="028. NOVA BH HD" tvg-logo="/noicon.png" group-title="01. EX-Yugo",028. NOVA BH HD - 028. NOVA BH HD
+http://wrlstr.dvrdns.org:18066/live?channelId=292&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="32" tvg-name="029. NOVA BH FHD" tvg-logo="/noicon.png" group-title="01. EX-Yugo",029. NOVA BH FHD - 029. NOVA BH FHD
+http://telehetz.dvrdns.org:12345/live?channelId=32&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="84" tvg-name="030. NOVA TV" tvg-logo="http://facetv.formea.ba:88/imagess/novatv.png" group-title="01. EX-Yugo",030. NOVA TV - 030. NOVA TV
+http://wrlstr.dvrdns.org:18066/live?channelId=84&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="396" tvg-name="031. NOVA HD" tvg-logo="http://facetv.formea.ba:88/imagess/novatv.png" group-title="01. EX-Yugo",031. NOVA HD - 031. NOVA HD
+http://wrlstr.dvrdns.org:18066/live?channelId=396&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="394" tvg-name="034. RTL hr. HD" tvg-logo="http://facetv.formea.ba:88/imagess/rtl.png" group-title="01. EX-Yugo",034. RTL hr. HD - 034. RTL hr. HD
+http://wrlstr.dvrdns.org:18066/live?channelId=394&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="79" tvg-name="035. HRT 1 HD" tvg-logo="http://facetv.formea.ba:88/imagess/hrt1.png" group-title="01. EX-Yugo",035. HRT 1 HD - 035. HRT 1 HD
+http://telehetz.dvrdns.org:12345/live?channelId=79&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="80" tvg-name="037. HRT 2 HD" tvg-logo="http://facetv.formea.ba:88/imagess/hrt2.png" group-title="01. EX-Yugo",037. HRT 2 HD - 037. HRT 2 HD
+http://telehetz.dvrdns.org:12345/live?channelId=80&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="81" tvg-name="039. HRT 3 HD" tvg-logo="http://facetv.formea.ba:88/imagess/hrt3.png" group-title="01. EX-Yugo",039. HRT 3 HD - 039. HRT 3 HD
+http://telehetz.dvrdns.org:12345/live?channelId=81&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="82" tvg-name="041. HRT 4 HD" tvg-logo="http://facetv.formea.ba:88/imagess/hrt4.png" group-title="01. EX-Yugo",041. HRT 4 HD - 041. HRT 4 HD
+http://wrlstr.dvrdns.org:18066/live?channelId=82&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="406" tvg-name="043. HRT int. HD" tvg-logo="http://facetv.formea.ba:88/imagess/hrt5.png" group-title="01. EX-Yugo",043. HRT int. HD - 043. HRT int. HD
+http://telehetz.dvrdns.org:12345/live?channelId=406&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="553" tvg-name="046. Doma HD" tvg-logo="/noicon.png" group-title="01. EX-Yugo",046. Doma HD - 046. Doma HD
+http://telehetz.dvrdns.org:12345/live?channelId=553&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="86" tvg-name="047. RTL 2 hr" tvg-logo="http://facetv.formea.ba:88/imagess/rtl2.png" group-title="01. EX-Yugo",047. RTL 2 hr - 047. RTL 2 hr
+http://wrlstr.dvrdns.org:18066/live?channelId=86&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="555" tvg-name="049. RTL Crime" tvg-logo="/noicon.png" group-title="05. Film",049. RTL Crime - 049. RTL Crime
+http://telehetz.dvrdns.org:12345/live?channelId=555&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="418" tvg-name="050. RTL Living" tvg-logo="http://facetv.formea.ba:88/imagess/rtlliving.png" group-title="05. Film",050. RTL Living - 050. RTL Living
+http://wrlstr.dvrdns.org:18066/live?channelId=418&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="417" tvg-name="051. RTL Passion hr" tvg-logo="http://facetv.formea.ba:88/imagess/rtlpassion.png" group-title="01. EX-Yugo",051. RTL Passion hr - 051. RTL Passion hr
+http://telehetz.dvrdns.org:12345/live?channelId=417&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="258" tvg-name="052. N1 HR" tvg-logo="http://facetv.formea.ba:88/imagess/N1RS.png" group-title="01. EX-Yugo",052. N1 HR - 052. N1 HR
+http://wrlstr.dvrdns.org:18066/live?channelId=258&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="314" tvg-name="060. HAPPY TV" tvg-logo="http://facetv.formea.ba:88/imagess/happy.png" group-title="01. EX-Yugo",060. HAPPY TV - 060. HAPPY TV
+http://telehetz.dvrdns.org:12345/live?channelId=314&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="27" tvg-name="061. HAPPY TV." tvg-logo="http://facetv.formea.ba:88/imagess/happy.png" group-title="01. EX-Yugo",061. HAPPY TV. - 061. HAPPY TV.
+http://telehetz.dvrdns.org:12345/live?channelId=27&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="341" tvg-name="062. Parovi 1 Live" tvg-logo="http://facetv.formea.ba:88/imagess/parovilive.png" group-title="01. EX-Yugo",062. Parovi 1 Live - 062. Parovi 1 Live
+http://wrlstr.dvrdns.org:18066/live?channelId=341&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="515" tvg-name="063. Parovi 2 Live" tvg-logo="/noicon.png" group-title="01. EX-Yugo",063. Parovi 2 Live - 063. Parovi 2 Live
+http://wrlstr.dvrdns.org:18066/live?channelId=515&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="441" tvg-name="064. SUPERSTAR TV" tvg-logo="/noicon.png" group-title="01. EX-Yugo",064. SUPERSTAR TV - 064. SUPERSTAR TV
+http://telehetz.dvrdns.org:12345/live?channelId=441&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="24" tvg-name="065. PRVA PLUS" tvg-logo="http://facetv.formea.ba:88/imagess/prvaplus.png" group-title="01. EX-Yugo",065. PRVA PLUS - 065. PRVA PLUS
+http://telehetz.dvrdns.org:12345/live?channelId=24&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="404" tvg-name="066. PRVA MAX" tvg-logo="http://facetv.formea.ba:88/imagess/prvamax.png" group-title="01. EX-Yugo",066. PRVA MAX - 066. PRVA MAX
+http://wrlstr.dvrdns.org:18066/live?channelId=404&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="405" tvg-name="067. PRVA WORLD" tvg-logo="http://facetv.formea.ba:88/imagess/PRVAWORLD.png" group-title="01. EX-Yugo",067. PRVA WORLD - 067. PRVA WORLD
+http://telehetz.dvrdns.org:12345/live?channelId=405&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="560" tvg-name="068. PRVA CG" tvg-logo="/noicon.png" group-title="01. EX-Yugo",068. PRVA CG - 068. PRVA CG
+http://wrlstr.dvrdns.org:18066/live?channelId=560&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="561" tvg-name="069. PRVA FILES" tvg-logo="/noicon.png" group-title="01. EX-Yugo",069. PRVA FILES - 069. PRVA FILES
+http://telehetz.dvrdns.org:12345/live?channelId=561&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="299" tvg-name="071. Nova M" tvg-logo="/noicon.png" group-title="01. EX-Yugo",071. Nova M - 071. Nova M
+http://telehetz.dvrdns.org:12345/live?channelId=299&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="275" tvg-name="072. RTV CG 1" tvg-logo="http://facetv.formea.ba:88/imagess/rtvcg1.png" group-title="01. EX-Yugo",072. RTV CG 1 - 072. RTV CG 1
+http://wrlstr.dvrdns.org:18066/live?channelId=275&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="266" tvg-name="073. RTV CG 2" tvg-logo="/noicon.png" group-title="01. EX-Yugo",073. RTV CG 2 - 073. RTV CG 2
+http://telehetz.dvrdns.org:12345/live?channelId=266&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="25" tvg-name="079. Nova RS" tvg-logo="http://facetv.formea.ba:88/imagess/novars.png" group-title="01. EX-Yugo",079. Nova RS - 079. Nova RS
+http://wrlstr.dvrdns.org:18066/live?channelId=25&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="565" tvg-name="080. Star TV" tvg-logo="/noicon.png" group-title="05. Film",080. Star TV - 080. Star TV
+http://telehetz.dvrdns.org:12345/live?channelId=565&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="9" tvg-name="085. BN TV" tvg-logo="http://facetv.formea.ba:88/imagess/bntv.png" group-title="01. EX-Yugo",085. BN TV - 085. BN TV
+http://wrlstr.dvrdns.org:18066/live?channelId=9&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="569" tvg-name="086. BN TV HD" tvg-logo="/noicon.png" group-title="01. EX-Yugo",086. BN TV HD - 086. BN TV HD
+http://telehetz.dvrdns.org:12345/live?channelId=569&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="15" tvg-name="087. TV TK" tvg-logo="http://facetv.formea.ba:88/imagess/TVTK.png" group-title="01. EX-Yugo",087. TV TK - 087. TV TK
+http://wrlstr.dvrdns.org:18066/live?channelId=15&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="378" tvg-name="088. RTV 7" tvg-logo="/noicon.png" group-title="01. EX-Yugo",088. RTV 7 - 088. RTV 7
+http://telehetz.dvrdns.org:12345/live?channelId=378&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="379" tvg-name="089. TV Slon" tvg-logo="http://facetv.formea.ba:88/imagess/slonextra.png" group-title="01. EX-Yugo",089. TV Slon - 089. TV Slon
+http://wrlstr.dvrdns.org:18066/live?channelId=379&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="334" tvg-name="090. Glas Drine" tvg-logo="http://facetv.formea.ba:88/imagess/tvGlasDrine.png" group-title="01. EX-Yugo",090. Glas Drine - 090. Glas Drine
+http://telehetz.dvrdns.org:12345/live?channelId=334&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="260" tvg-name="091. Alternativna TV" tvg-logo="http://facetv.formea.ba:88/imagess/alternativnatv.png" group-title="01. EX-Yugo",091. Alternativna TV - 091. Alternativna TV
+http://wrlstr.dvrdns.org:18066/live?channelId=260&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="294" tvg-name="092. TV 1" tvg-logo="http://facetv.formea.ba:88/imagess/tv1.png" group-title="01. EX-Yugo",092. TV 1 - 092. TV 1
+http://telehetz.dvrdns.org:12345/live?channelId=294&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="264" tvg-name="093. NTV IC Kakanj" tvg-logo="http://facetv.formea.ba:88/imagess/ntvickakanj.png" group-title="01. EX-Yugo",093. NTV IC Kakanj - 093. NTV IC Kakanj
+http://wrlstr.dvrdns.org:18066/live?channelId=264&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="409" tvg-name="094. RTV USK" tvg-logo="http://facetv.formea.ba:88/imagess/rtvusk.png" group-title="01. EX-Yugo",094. RTV USK - 094. RTV USK
+http://telehetz.dvrdns.org:12345/live?channelId=409&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="652" tvg-name="095. BIR" tvg-logo="/noicon.png" group-title="01. EX-Yugo",095. BIR - 095. BIR
+http://telehetz.dvrdns.org:12345/live?channelId=652&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="410" tvg-name="096. Smart TV" tvg-logo="http://facetv.formea.ba:88/imagess/smarttv.png" group-title="01. EX-Yugo",096. Smart TV - 096. Smart TV
+http://telehetz.dvrdns.org:12345/live?channelId=410&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="340" tvg-name="097. MTV Igman" tvg-logo="http://facetv.formea.ba:88/imagess/MTV.IGMAN.png" group-title="01. EX-Yugo",097. MTV Igman - 097. MTV Igman
+http://wrlstr.dvrdns.org:18066/live?channelId=340&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="14" tvg-name="098. Televizija 5" tvg-logo="http://facetv.formea.ba:88/imagess/kanal5.png" group-title="01. EX-Yugo",098. Televizija 5 - 098. Televizija 5
+http://telehetz.dvrdns.org:12345/live?channelId=14&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="357" tvg-name="099. RTRS" tvg-logo="http://facetv.formea.ba:88/imagess/rtrs.png" group-title="01. EX-Yugo",099. RTRS - 099. RTRS
+http://wrlstr.dvrdns.org:18066/live?channelId=357&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="440" tvg-name="101. TV Zenica" tvg-logo="/noicon.png" group-title="01. EX-Yugo",101. TV Zenica - 101. TV Zenica
+http://wrlstr.dvrdns.org:18066/live?channelId=440&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="618" tvg-name="102. Alfa TV" tvg-logo="/noicon.png" group-title="01. EX-Yugo",102. Alfa TV - 102. Alfa TV
+http://telehetz.dvrdns.org:12345/live?channelId=618&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="413" tvg-name="103. TV Sarajevo" tvg-logo="http://facetv.formea.ba:88/imagess/tvsarajevo.png" group-title="01. EX-Yugo",103. TV Sarajevo - 103. TV Sarajevo
+http://wrlstr.dvrdns.org:18066/live?channelId=413&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="619" tvg-name="104. TV Vogosca" tvg-logo="/noicon.png" group-title="01. EX-Yugo",104. TV Vogosca - 104. TV Vogosca
+http://telehetz.dvrdns.org:12345/live?channelId=619&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="622" tvg-name="107. City TV" tvg-logo="/noicon.png" group-title="01. EX-Yugo",107. City TV - 107. City TV
+http://wrlstr.dvrdns.org:18066/live?channelId=622&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="623" tvg-name="108. Sana TV" tvg-logo="/noicon.png" group-title="01. EX-Yugo",108. Sana TV - 108. Sana TV
+http://telehetz.dvrdns.org:12345/live?channelId=623&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="626" tvg-name="111. Kanal 6 HD" tvg-logo="/noicon.png" group-title="01. EX-Yugo",111. Kanal 6 HD - 111. Kanal 6 HD
+http://wrlstr.dvrdns.org:18066/live?channelId=626&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="261" tvg-name="120. Belle Amie" tvg-logo="http://facetv.formea.ba:88/imagess/belleamie.png" group-title="01. EX-Yugo",120. Belle Amie - 120. Belle Amie
+http://telehetz.dvrdns.org:12345/live?channelId=261&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="631" tvg-name="124. RTV 1" tvg-logo="/noicon.png" group-title="01. EX-Yugo",124. RTV 1 - 124. RTV 1
+http://telehetz.dvrdns.org:12345/live?channelId=631&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="632" tvg-name="125. RTV 2" tvg-logo="/noicon.png" group-title="01. EX-Yugo",125. RTV 2 - 125. RTV 2
+http://wrlstr.dvrdns.org:18066/live?channelId=632&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="516" tvg-name="129. RTS 3" tvg-logo="/noicon.png" group-title="01. EX-Yugo",129. RTS 3 - 129. RTS 3
+http://telehetz.dvrdns.org:12345/live?channelId=516&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="19" tvg-name="140. Sandzak TV" tvg-logo="http://facetv.formea.ba:88/imagess/sandzak.png" group-title="01. EX-Yugo",140. Sandzak TV - 140. Sandzak TV
+http://wrlstr.dvrdns.org:18066/live?channelId=19&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="635" tvg-name="141. Nova Sport Sr HD" tvg-logo="/noicon.png" group-title="04. Sport",141. Nova Sport Sr HD - 141. Nova Sport Sr HD
+http://wrlstr.dvrdns.org:18066/live?channelId=635&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="18" tvg-name="143. RTV Novi Pazar" tvg-logo="http://facetv.formea.ba:88/imagess/novi-pazar.png" group-title="01. EX-Yugo",143. RTV Novi Pazar - 143. RTV Novi Pazar
+http://wrlstr.dvrdns.org:18066/live?channelId=18&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="391" tvg-name="144. Sandzacka TV Mreza" tvg-logo="/noicon.png" group-title="01. EX-Yugo",144. Sandzacka TV Mreza - 144. Sandzacka TV Mreza
+http://wrlstr.dvrdns.org:18066/live?channelId=391&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="327" tvg-name="160. Posavina TV" tvg-logo="http://facetv.formea.ba:88/imagess/posavinatvba.png" group-title="01. EX-Yugo",160. Posavina TV - 160. Posavina TV
+http://wrlstr.dvrdns.org:18066/live?channelId=327&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="284" tvg-name="161. Z1" tvg-logo="http://facetv.formea.ba:88/imagess/z1.png" group-title="01. EX-Yugo",161. Z1 - 161. Z1
+http://telehetz.dvrdns.org:12345/live?channelId=284&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="503" tvg-name="162. Laudato TV" tvg-logo="/noicon.png" group-title="01. EX-Yugo",162. Laudato TV - 162. Laudato TV
+http://wrlstr.dvrdns.org:18066/live?channelId=503&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="504" tvg-name="163. Vinkovacka TV" tvg-logo="/noicon.png" group-title="01. EX-Yugo",163. Vinkovacka TV - 163. Vinkovacka TV
+http://telehetz.dvrdns.org:12345/live?channelId=504&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="505" tvg-name="164. Osjecka TV" tvg-logo="/noicon.png" group-title="01. EX-Yugo",164. Osjecka TV - 164. Osjecka TV
+http://wrlstr.dvrdns.org:18066/live?channelId=505&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="638" tvg-name="165. TV Banovina" tvg-logo="/noicon.png" group-title="01. EX-Yugo",165. TV Banovina - 165. TV Banovina
+http://telehetz.dvrdns.org:12345/live?channelId=638&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="393" tvg-name="171. Nick Junior" tvg-logo="/noicon.png" group-title="02. Children",171. Nick Junior - 171. Nick Junior
+http://telehetz.dvrdns.org:12345/live?channelId=393&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="390" tvg-name="172. Minimax" tvg-logo="http://facetv.formea.ba:88/imagess/Minimax.PNG" group-title="02. Children",172. Minimax - 172. Minimax
+http://telehetz.dvrdns.org:12345/live?channelId=390&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="6" tvg-name="173. Hayatovci" tvg-logo="http://facetv.formea.ba:88/imagess/hayatovci.png" group-title="02. Children",173. Hayatovci - 173. Hayatovci
+http://wrlstr.dvrdns.org:18066/live?channelId=6&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="374" tvg-name="174. Pink Super Kids" tvg-logo="http://facetv.formea.ba:88/imagess/pinksuperkids.png" group-title="02. Children",174. Pink Super Kids - 174. Pink Super Kids
+http://telehetz.dvrdns.org:12345/live?channelId=374&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="274" tvg-name="175. Nickelodeon Srb" tvg-logo="/noicon.png" group-title="02. Children",175. Nickelodeon Srb - 175. Nickelodeon Srb
+http://wrlstr.dvrdns.org:18066/live?channelId=274&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="71" tvg-name="176. Mini TV" tvg-logo="http://facetv.formea.ba:88/imagess/mini.png" group-title="02. Children",176. Mini TV - 176. Mini TV
+http://telehetz.dvrdns.org:12345/live?channelId=71&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="262" tvg-name="177. Disney Junior" tvg-logo="/noicon.png" group-title="02. Children",177. Disney Junior - 177. Disney Junior
+http://telehetz.dvrdns.org:12345/live?channelId=262&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="277" tvg-name="178. Baby TV" tvg-logo="http://facetv.formea.ba:88/imagess/babytv.png" group-title="02. Children",178. Baby TV - 178. Baby TV
+http://telehetz.dvrdns.org:12345/live?channelId=277&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="293" tvg-name="179. RTL Kockica" tvg-logo="http://facetv.formea.ba:88/imagess/rtlkockica.png" group-title="02. Children",179. RTL Kockica - 179. RTL Kockica
+http://wrlstr.dvrdns.org:18066/live?channelId=293&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="408" tvg-name="180. Pink Kids" tvg-logo="http://facetv.formea.ba:88/imagess/pinkkids.png" group-title="02. Children",180. Pink Kids - 180. Pink Kids
+http://telehetz.dvrdns.org:12345/live?channelId=408&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="399" tvg-name="181. Boomerang TV" tvg-logo="/noicon.png" group-title="02. Children",181. Boomerang TV - 181. Boomerang TV
+http://wrlstr.dvrdns.org:18066/live?channelId=399&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="444" tvg-name="182. Tom & Jerry" tvg-logo="/noicon.png" group-title="02. Children",182. Tom & Jerry - 182. Tom & Jerry
+http://telehetz.dvrdns.org:12345/live?channelId=444&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="28" tvg-name="190. PINK." tvg-logo="http://facetv.formea.ba:88/imagess/pink.png" group-title="03. Pink Media",190. PINK. - 190. PINK.
+http://telehetz.dvrdns.org:12345/live?channelId=28&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="349" tvg-name="191. Zadruga 1 Live" tvg-logo="/noicon.png" group-title="01. EX-Yugo",191. Zadruga 1 Live - 191. Zadruga 1 Live
+http://telehetz.dvrdns.org:12345/live?channelId=349&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="512" tvg-name="192. Zadruga 2 Live" tvg-logo="/noicon.png" group-title="01. EX-Yugo",192. Zadruga 2 Live - 192. Zadruga 2 Live
+http://wrlstr.dvrdns.org:18066/live?channelId=512&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="513" tvg-name="193. Zadruga 3 Live" tvg-logo="/noicon.png" group-title="01. EX-Yugo",193. Zadruga 3 Live - 193. Zadruga 3 Live
+http://telehetz.dvrdns.org:12345/live?channelId=513&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="514" tvg-name="194. Zadruga 4 Live" tvg-logo="/noicon.png" group-title="01. EX-Yugo",194. Zadruga 4 Live - 194. Zadruga 4 Live
+http://wrlstr.dvrdns.org:18066/live?channelId=514&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="39" tvg-name="195. PINK Reality" tvg-logo="http://facetv.formea.ba:88/imagess/pinkreality.png" group-title="03. Pink Media",195. PINK Reality - 195. PINK Reality
+http://telehetz.dvrdns.org:12345/live?channelId=39&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="29" tvg-name="196. PINK 2" tvg-logo="http://facetv.formea.ba:88/imagess/pink2.png" group-title="03. Pink Media",196. PINK 2 - 196. PINK 2
+http://wrlstr.dvrdns.org:18066/live?channelId=29&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="30" tvg-name="197. PINK 3" tvg-logo="http://facetv.formea.ba:88/imagess/pink3.png" group-title="03. Pink Media",197. PINK 3 - 197. PINK 3
+http://telehetz.dvrdns.org:12345/live?channelId=30&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="437" tvg-name="198. PINK BH" tvg-logo="http://facetv.formea.ba:88/imagess/pinkbih.png" group-title="03. Pink Media",198. PINK BH - 198. PINK BH
+http://wrlstr.dvrdns.org:18066/live?channelId=437&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="436" tvg-name="199. PINK M" tvg-logo="http://facetv.formea.ba:88/imagess/pinkm.png" group-title="03. Pink Media",199. PINK M - 199. PINK M
+http://telehetz.dvrdns.org:12345/live?channelId=436&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="34" tvg-name="200. PINK Premium" tvg-logo="http://facetv.formea.ba:88/imagess/pinkpremium.png" group-title="03. Pink Media",200. PINK Premium - 200. PINK Premium
+http://wrlstr.dvrdns.org:18066/live?channelId=34&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="42" tvg-name="201. PINK Western" tvg-logo="http://facetv.formea.ba:88/imagess/pinkwestern.png" group-title="03. Pink Media",201. PINK Western - 201. PINK Western
+http://telehetz.dvrdns.org:12345/live?channelId=42&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="35" tvg-name="202. PINK Zabava" tvg-logo="http://facetv.formea.ba:88/imagess/pinkzabava.png" group-title="03. Pink Media",202. PINK Zabava - 202. PINK Zabava
+http://wrlstr.dvrdns.org:18066/live?channelId=35&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="62" tvg-name="203. PINK Serije" tvg-logo="http://facetv.formea.ba:88/imagess/pinkserije.png" group-title="03. Pink Media",203. PINK Serije - 203. PINK Serije
+http://telehetz.dvrdns.org:12345/live?channelId=62&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="43" tvg-name="204. PINK Action" tvg-logo="http://facetv.formea.ba:88/imagess/pinkaction.png" group-title="03. Pink Media",204. PINK Action - 204. PINK Action
+http://telehetz.dvrdns.org:12345/live?channelId=43&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="50" tvg-name="205. PINK Comedy" tvg-logo="http://facetv.formea.ba:88/imagess/pinkcomedy.png" group-title="03. Pink Media",205. PINK Comedy - 205. PINK Comedy
+http://telehetz.dvrdns.org:12345/live?channelId=50&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="33" tvg-name="206. PINK Film" tvg-logo="http://facetv.formea.ba:88/imagess/pinkfilm.png" group-title="03. Pink Media",206. PINK Film - 206. PINK Film
+http://wrlstr.dvrdns.org:18066/live?channelId=33&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="46" tvg-name="207. PINK Movies" tvg-logo="http://facetv.formea.ba:88/imagess/pinkmovies.png" group-title="03. Pink Media",207. PINK Movies - 207. PINK Movies
+http://telehetz.dvrdns.org:12345/live?channelId=46&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="48" tvg-name="208. PINK World Cinema" tvg-logo="http://facetv.formea.ba:88/imagess/pinkworldcinema.png" group-title="03. Pink Media",208. PINK World Cinema - 208. PINK World Cinema
+http://wrlstr.dvrdns.org:18066/live?channelId=48&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="49" tvg-name="209. PINK Horor" tvg-logo="http://facetv.formea.ba:88/imagess/pinkhoror.png" group-title="03. Pink Media",209. PINK Horor - 209. PINK Horor
+http://telehetz.dvrdns.org:12345/live?channelId=49&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="283" tvg-name="210. PINK Thriller" tvg-logo="/noicon.png" group-title="03. Pink Media",210. PINK Thriller - 210. PINK Thriller
+http://wrlstr.dvrdns.org:18066/live?channelId=283&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="415" tvg-name="211. PINK Romance" tvg-logo="http://facetv.formea.ba:88/imagess/pinkromance.png" group-title="03. Pink Media",211. PINK Romance - 211. PINK Romance
+http://telehetz.dvrdns.org:12345/live?channelId=415&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="112" tvg-name="268. Arena Sport Sr 5 HD..." tvg-logo="http://facetv.formea.ba:88/imagess/arenasport5.png" group-title="04. Sport",268. Arena Sport Sr 5 HD... - 268. Arena Sport Sr 5 HD...
+http://wrlstr.dvrdns.org:18066/live?channelId=112&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="63" tvg-name="212. PINK Family" tvg-logo="http://facetv.formea.ba:88/imagess/pinkfamily.png" group-title="03. Pink Media",212. PINK Family - 212. PINK Family
+http://wrlstr.dvrdns.org:18066/live?channelId=63&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="584" tvg-name="213. PINK Classic" tvg-logo="/noicon.png" group-title="03. Pink Media",213. PINK Classic - 213. PINK Classic
+http://telehetz.dvrdns.org:12345/live?channelId=584&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="280" tvg-name="214. PINK Sci-Fi & Fantasy" tvg-logo="http://facetv.formea.ba:88/imagess/pinkscifi.png" group-title="03. Pink Media",214. PINK Sci-Fi & Fantasy - 214. PINK Sci-Fi & Fantasy
+http://wrlstr.dvrdns.org:18066/live?channelId=280&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="416" tvg-name="216. PINK Pedia" tvg-logo="http://facetv.formea.ba:88/imagess/pinkpedia.png" group-title="03. Pink Media",216. PINK Pedia - 216. PINK Pedia
+http://wrlstr.dvrdns.org:18066/live?channelId=416&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="53" tvg-name="217. PINK Extra" tvg-logo="http://facetv.formea.ba:88/imagess/pinkextra.png" group-title="03. Pink Media",217. PINK Extra - 217. PINK Extra
+http://telehetz.dvrdns.org:12345/live?channelId=53&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="589" tvg-name="218. PINK Kuvar" tvg-logo="/noicon.png" group-title="03. Pink Media",218. PINK Kuvar - 218. PINK Kuvar
+http://wrlstr.dvrdns.org:18066/live?channelId=589&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="41" tvg-name="219. PINK Soap" tvg-logo="http://facetv.formea.ba:88/imagess/pinksoap.png" group-title="03. Pink Media",219. PINK Soap - 219. PINK Soap
+http://telehetz.dvrdns.org:12345/live?channelId=41&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="414" tvg-name="221. Pink HA HA" tvg-logo="/noicon.png" group-title="03. Pink Media",221. Pink HA HA - 221. Pink HA HA
+http://telehetz.dvrdns.org:12345/live?channelId=414&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="597" tvg-name="222. PINK Crime Mystery" tvg-logo="/noicon.png" group-title="03. Pink Media",222. PINK Crime Mystery - 222. PINK Crime Mystery
+http://wrlstr.dvrdns.org:18066/live?channelId=597&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="40" tvg-name="224. PINK Plus" tvg-logo="http://facetv.formea.ba:88/imagess/pinkplus.png" group-title="03. Pink Media",224. PINK Plus - 224. PINK Plus
+http://wrlstr.dvrdns.org:18066/live?channelId=40&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="600" tvg-name="225. PINK World" tvg-logo="/noicon.png" group-title="03. Pink Media",225. PINK World - 225. PINK World
+http://telehetz.dvrdns.org:12345/live?channelId=600&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="70" tvg-name="226. PINK Fight Network" tvg-logo="http://facetv.formea.ba:88/imagess/pinkfight.png" group-title="03. Pink Media",226. PINK Fight Network - 226. PINK Fight Network
+http://wrlstr.dvrdns.org:18066/live?channelId=70&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="296" tvg-name="230. PINK Bravo" tvg-logo="http://facetv.formea.ba:88/imagess/pinkbravo.png" group-title="03. Pink Media",230. PINK Bravo - 230. PINK Bravo
+http://telehetz.dvrdns.org:12345/live?channelId=296&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="55" tvg-name="231. PINK Music" tvg-logo="http://facetv.formea.ba:88/imagess/pinkmusic.png" group-title="03. Pink Media",231. PINK Music - 231. PINK Music
+http://wrlstr.dvrdns.org:18066/live?channelId=55&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="56" tvg-name="232. PINK Music 2" tvg-logo="http://facetv.formea.ba:88/imagess/pinkmusic2.png" group-title="03. Pink Media",232. PINK Music 2 - 232. PINK Music 2
+http://telehetz.dvrdns.org:12345/live?channelId=56&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="37" tvg-name="233. PINK Folk" tvg-logo="http://facetv.formea.ba:88/imagess/pinkfolk1.png" group-title="03. Pink Media",233. PINK Folk - 233. PINK Folk
+http://wrlstr.dvrdns.org:18066/live?channelId=37&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="38" tvg-name="234. PINK Folk 2" tvg-logo="http://facetv.formea.ba:88/imagess/pinkfolk2.png" group-title="03. Pink Media",234. PINK Folk 2 - 234. PINK Folk 2
+http://telehetz.dvrdns.org:12345/live?channelId=38&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="73" tvg-name="235. DM SAT" tvg-logo="http://facetv.formea.ba:88/imagess/dmsat.png" group-title="07. Muzika",235. DM SAT - 235. DM SAT
+http://wrlstr.dvrdns.org:18066/live?channelId=73&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="16" tvg-name="236. BN MUSIC" tvg-logo="http://facetv.formea.ba:88/imagess/bnmusic.png" group-title="07. Muzika",236. BN MUSIC - 236. BN MUSIC
+http://wrlstr.dvrdns.org:18066/live?channelId=16&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="13" tvg-name="237. OTV Valentino" tvg-logo="http://facetv.formea.ba:88/imagess/valentino.png" group-title="07. Muzika",237. OTV Valentino - 237. OTV Valentino
+http://wrlstr.dvrdns.org:18066/live?channelId=13&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="5" tvg-name="238. HAYAT Folk" tvg-logo="http://facetv.formea.ba:88/imagess/hayatfolk.png" group-title="07. Muzika",238. HAYAT Folk - 238. HAYAT Folk
+http://telehetz.dvrdns.org:12345/live?channelId=5&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="291" tvg-name="239. HAYAT Music" tvg-logo="http://facetv.formea.ba:88/imagess/hayatmusic.png" group-title="07. Muzika",239. HAYAT Music - 239. HAYAT Music
+http://wrlstr.dvrdns.org:18066/live?channelId=291&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="285" tvg-name="240. GRAND" tvg-logo="http://facetv.formea.ba:88/imagess/grandtv.png" group-title="07. Muzika",240. GRAND - 240. GRAND
+http://wrlstr.dvrdns.org:18066/live?channelId=285&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="412" tvg-name="241. GRAND 2" tvg-logo="/noicon.png" group-title="07. Muzika",241. GRAND 2 - 241. GRAND 2
+http://wrlstr.dvrdns.org:18066/live?channelId=412&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="295" tvg-name="242. IZVORNA TV" tvg-logo="http://facetv.formea.ba:88/imagess/izvornamuzika.png" group-title="07. Muzika",242. IZVORNA TV - 242. IZVORNA TV
+http://wrlstr.dvrdns.org:18066/live?channelId=295&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="371" tvg-name="243. IDJ TV" tvg-logo="http://facetv.formea.ba:88/imagess/IDJ%20TV.png" group-title="07. Muzika",243. IDJ TV - 243. IDJ TV
+http://telehetz.dvrdns.org:12345/live?channelId=371&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="75" tvg-name="244. CMC" tvg-logo="http://facetv.formea.ba:88/imagess/cmc.png" group-title="07. Muzika",244. CMC - 244. CMC
+http://wrlstr.dvrdns.org:18066/live?channelId=75&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="76" tvg-name="245. DUGA" tvg-logo="http://facetv.formea.ba:88/imagess/dugaTV.png" group-title="07. Muzika",245. DUGA - 245. DUGA
+http://telehetz.dvrdns.org:12345/live?channelId=76&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="614" tvg-name="249. Balkanika" tvg-logo="/noicon.png" group-title="07. Muzika",249. Balkanika - 249. Balkanika
+http://telehetz.dvrdns.org:12345/live?channelId=614&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="251" tvg-name="250. VH1" tvg-logo="http://facetv.formea.ba:88/imagess/vh1.png" group-title="07. Muzika",250. VH1 - 250. VH1
+http://wrlstr.dvrdns.org:18066/live?channelId=251&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="617" tvg-name="251. VH 1 Classic" tvg-logo="/noicon.png" group-title="07. Muzika",251. VH 1 Classic - 251. VH 1 Classic
+http://telehetz.dvrdns.org:12345/live?channelId=617&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="375" tvg-name="252. MTV Adria" tvg-logo="http://facetv.formea.ba:88/imagess/mtvadria.png" group-title="07. Muzika",252. MTV Adria - 252. MTV Adria
+http://wrlstr.dvrdns.org:18066/live?channelId=375&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="443" tvg-name="253. Deluxe Music FHD" tvg-logo="/noicon.png" group-title="07. Muzika",253. Deluxe Music FHD - 253. Deluxe Music FHD
+http://wrlstr.dvrdns.org:18066/live?channelId=443&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="108" tvg-name="261. Arena Sport 1 FHD sr" tvg-logo="http://facetv.formea.ba:88/imagess/arenasport1.png" group-title="04. Sport",261. Arena Sport 1 FHD sr - 261. Arena Sport 1 FHD sr
+http://wrlstr.dvrdns.org:18066/live?channelId=108&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="109" tvg-name="263. Arena Sport 2 FHD sr" tvg-logo="http://facetv.formea.ba:88/imagess/arenasport2.png" group-title="04. Sport",263. Arena Sport 2 FHD sr - 263. Arena Sport 2 FHD sr
+http://wrlstr.dvrdns.org:18066/live?channelId=109&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="110" tvg-name="265. Arena Sport 3 FHD sr" tvg-logo="http://facetv.formea.ba:88/imagess/arenasport3.png" group-title="04. Sport",265. Arena Sport 3 FHD sr - 265. Arena Sport 3 FHD sr
+http://wrlstr.dvrdns.org:18066/live?channelId=110&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="111" tvg-name="267. Arena Sport 4 FHD sr" tvg-logo="http://facetv.formea.ba:88/imagess/arenasport4.png" group-title="04. Sport",267. Arena Sport 4 FHD sr - 267. Arena Sport 4 FHD sr
+http://wrlstr.dvrdns.org:18066/live?channelId=111&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="119" tvg-name="271. Sport klub 1 FHD sr" tvg-logo="http://facetv.formea.ba:88/imagess/sportclub1.png" group-title="04. Sport",271. Sport klub 1 FHD sr - 271. Sport klub 1 FHD sr
+http://wrlstr.dvrdns.org:18066/live?channelId=119&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="120" tvg-name="273. Sport klub 2 FHD sr" tvg-logo="http://facetv.formea.ba:88/imagess/sportclub2.png" group-title="04. Sport",273. Sport klub 2 FHD sr - 273. Sport klub 2 FHD sr
+http://wrlstr.dvrdns.org:18066/live?channelId=120&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="121" tvg-name="275. Sport klub 3 FHD sr" tvg-logo="http://facetv.formea.ba:88/imagess/sportclub3.png" group-title="04. Sport",275. Sport klub 3 FHD sr - 275. Sport klub 3 FHD sr
+http://wrlstr.dvrdns.org:18066/live?channelId=121&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="113" tvg-name="290. Arena Sport 1 HD hr" tvg-logo="http://facetv.formea.ba:88/imagess/arenasport1hr.png" group-title="04. Sport",290. Arena Sport 1 HD hr - 290. Arena Sport 1 HD hr
+http://wrlstr.dvrdns.org:18066/live?channelId=113&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="114" tvg-name="292. Arena Sport 2 HD hr" tvg-logo="http://facetv.formea.ba:88/imagess/arenasport2.png" group-title="04. Sport",292. Arena Sport 2 HD hr - 292. Arena Sport 2 HD hr
+http://wrlstr.dvrdns.org:18066/live?channelId=114&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="115" tvg-name="294. Arena Sport HD 3 hr" tvg-logo="http://facetv.formea.ba:88/imagess/arenasport3.png" group-title="04. Sport",294. Arena Sport HD 3 hr - 294. Arena Sport HD 3 HR
+http://wrlstr.dvrdns.org:18066/live?channelId=115&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="116" tvg-name="296. Arena Sport 4 HD hr" tvg-logo="http://facetv.formea.ba:88/imagess/arenasport4.png" group-title="04. Sport",296. Arena Sport 4 HD hr - 296. Arena Sport 4 HD hr
+http://wrlstr.dvrdns.org:18066/live?channelId=116&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="491" tvg-name="298. Arena Sport 5 HD hr" tvg-logo="/noicon.png" group-title="04. Sport",298. Arena Sport 5 HD hr - 298. Arena Sport 5 HD hr
+http://wrlstr.dvrdns.org:18066/live?channelId=491&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="430" tvg-name="308. Planet Sport 1 HD" tvg-logo="/noicon.png" group-title="04. Sport",308. Planet Sport 1 HD - 308. Planet Sport 1 HD
+http://telehetz.dvrdns.org:12345/live?channelId=430&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="431" tvg-name="309. Planet Sport 2 HD" tvg-logo="/noicon.png" group-title="04. Sport",309. Planet Sport 2 HD - 309. Planet Sport 2 HD
+http://wrlstr.dvrdns.org:18066/live?channelId=431&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="432" tvg-name="310. Planet Sport 3 HD" tvg-logo="/noicon.png" group-title="04. Sport",310. Planet Sport 3 HD - 310. Planet Sport 3 HD
+http://telehetz.dvrdns.org:12345/live?channelId=432&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="117" tvg-name="313. Eurosport 1 HD" tvg-logo="http://facetv.formea.ba:88/imagess/eurosport.png" group-title="04. Sport",313. Eurosport 1 HD - 313. Eurosport 1 HD
+http://wrlstr.dvrdns.org:18066/live?channelId=117&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="118" tvg-name="315. Eurosport 2 HD" tvg-logo="http://facetv.formea.ba:88/imagess/sport1eurosport2.png" group-title="04. Sport",315. Eurosport 2 HD - 315. Eurosport 2 HD
+http://wrlstr.dvrdns.org:18066/live?channelId=118&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="402" tvg-name="317. Arena BH Premier Liga" tvg-logo="/noicon.png" group-title="04. Sport",317. Arena BH Premier Liga - 317. Arena BH Premier Liga
+http://wrlstr.dvrdns.org:18066/live?channelId=402&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="389" tvg-name="318. Sportska TV" tvg-logo="http://facetv.formea.ba:88/imagess/SportskaTV.png" group-title="04. Sport",318. Sportska TV - 318. Sportska TV
+http://telehetz.dvrdns.org:12345/live?channelId=389&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="388" tvg-name="322. E&H" tvg-logo="/noicon.png" group-title="07. Muzika",322. E&H - 322. E&H
+http://telehetz.dvrdns.org:12345/live?channelId=388&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="362" tvg-name="260. Arena Sport 1 HD Sr" tvg-logo="/noicon.png" group-title="04. Sport",260. Arena Sport 1 HD Sr - 260. Arena Sport 1 HD Sr
+http://telehetz.dvrdns.org:12345/live?channelId=362&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="373" tvg-name="330. SPORT NEWS DE" tvg-logo="http://facetv.formea.ba:88/imagess/skysportsnews.png" group-title="04. Sport",330. SPORT NEWS DE - 330. SPORT NEWS DE
+http://wrlstr.dvrdns.org:18066/live?channelId=373&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="607" tvg-name="331. SKY Sport Bundesliga TOP GAME" tvg-logo="/noicon.png" group-title="04. Sport",331. SKY Sport Bundesliga TOP GAME - 331. SKY Sport Bundesliga TOP GAME
+http://wrlstr.dvrdns.org:18066/live?channelId=607&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="606" tvg-name="332. SKY Sport Bundesliga 1 HD" tvg-logo="/noicon.png" group-title="04. Sport",332. SKY Sport Bundesliga 1 HD - 332. SKY Sport Bundesliga 1 HD
+http://wrlstr.dvrdns.org:18066/live?channelId=606&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="146" tvg-name="333. SKY Sport Bundesliga 1 FHD" tvg-logo="http://facetv.formea.ba:88/imagess/skybundesliga.png" group-title="04. Sport",333. SKY Sport Bundesliga 1 FHD - 333. SKY Sport Bundesliga 1 FHD
+http://wrlstr.dvrdns.org:18066/live?channelId=146&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="605" tvg-name="334. SKY Sport Bundesliga 2 HD" tvg-logo="/noicon.png" group-title="04. Sport",334. SKY Sport Bundesliga 2 HD - 334. SKY Sport Bundesliga 2 HD
+http://wrlstr.dvrdns.org:18066/live?channelId=605&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="604" tvg-name="336. SKY Sport Bundesliga 3 HD" tvg-logo="/noicon.png" group-title="04. Sport",336. SKY Sport Bundesliga 3 HD - 336. SKY Sport Bundesliga 3 HD
+http://wrlstr.dvrdns.org:18066/live?channelId=604&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="603" tvg-name="338. SKY Sport Bundesliga 4 HD" tvg-logo="/noicon.png" group-title="04. Sport",338. SKY Sport Bundesliga 4 HD - 338. SKY Sport Bundesliga 4 HD
+http://telehetz.dvrdns.org:12345/live?channelId=603&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="602" tvg-name="340. SKY Sport Bundesliga 5 HD" tvg-logo="/noicon.png" group-title="04. Sport",340. SKY Sport Bundesliga 5 HD - 340. SKY Sport Bundesliga 5 HD
+http://wrlstr.dvrdns.org:18066/live?channelId=602&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="601" tvg-name="342. SKY Sport Bundesliga 6 HD" tvg-logo="/noicon.png" group-title="04. Sport",342. SKY Sport Bundesliga 6 HD - 342. SKY Sport Bundesliga 6 HD
+http://telehetz.dvrdns.org:12345/live?channelId=601&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="596" tvg-name="345. Studio B" tvg-logo="/noicon.png" group-title="01. EX-Yugo",345. Studio B - 345. Studio B
+http://telehetz.dvrdns.org:12345/live?channelId=596&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="595" tvg-name="346. K1" tvg-logo="/noicon.png" group-title="07. Muzika",346. K1 - 346. K1
+http://telehetz.dvrdns.org:12345/live?channelId=595&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="592" tvg-name="081. Kurir TV" tvg-logo="/noicon.png" group-title="01. EX-Yugo",081. Kurir TV - 081. Kurir TV
+http://telehetz.dvrdns.org:12345/live?channelId=592&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="156" tvg-name="350. SKY SPORT 1 HD" tvg-logo="http://facetv.formea.ba:88/imagess/skysport1.png" group-title="04. Sport",350. SKY SPORT 1 HD - 350. SKY SPORT 1 HD
+http://wrlstr.dvrdns.org:18066/live?channelId=156&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="590" tvg-name="351. SKY SPORT 1 FHD" tvg-logo="/noicon.png" group-title="04. Sport",351. SKY SPORT 1 FHD - 351. SKY SPORT 1 FHD
+http://wrlstr.dvrdns.org:18066/live?channelId=590&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="157" tvg-name="352. SKY SPORT 2 HD" tvg-logo="http://facetv.formea.ba:88/imagess/skysport2.png" group-title="04. Sport",352. SKY SPORT 2 HD - 352. SKY SPORT 2 HD
+http://wrlstr.dvrdns.org:18066/live?channelId=157&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="145" tvg-name="354. SKY SPORT 3 HD" tvg-logo="http://facetv.formea.ba:88/imagess/SkySport3.png" group-title="04. Sport",354. SKY SPORT 3 HD - 354. SKY SPORT 3 HD
+http://telehetz.dvrdns.org:12345/live?channelId=145&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="149" tvg-name="356. SKY SPORT 4 HD" tvg-logo="http://facetv.formea.ba:88/imagess/SkySport4LiveOnly.png" group-title="04. Sport",356. SKY SPORT 4 HD - 356. SKY SPORT 4 HD
+http://wrlstr.dvrdns.org:18066/live?channelId=149&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="323" tvg-name="358. SKY SPORT 5 HD" tvg-logo="/noicon.png" group-title="04. Sport",358. SKY SPORT 5 HD - 358. SKY SPORT 5 HD
+http://telehetz.dvrdns.org:12345/live?channelId=323&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="328" tvg-name="370. Eurosport 1 HD DE" tvg-logo="http://facetv.formea.ba:88/imagess/eurosport.png" group-title="04. Sport",370. Eurosport 1 HD DE - 370. Eurosport 1 HD DE
+http://telehetz.dvrdns.org:12345/live?channelId=328&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="369" tvg-name="371. Eurosport 2 HD DE" tvg-logo="http://facetv.formea.ba:88/imagess/sport1eurosport2.png" group-title="04. Sport",371. Eurosport 2 HD DE - 371. Eurosport 2 HD DE
+http://wrlstr.dvrdns.org:18066/live?channelId=369&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="11" tvg-name="372. SKY Formel 1 HD" tvg-logo="/noicon.png" group-title="04. Sport",372. SKY Formel 1 HD - 372. SKY Formel 1 HD
+http://wrlstr.dvrdns.org:18066/live?channelId=11&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="578" tvg-name="374. Sport 1 FHD" tvg-logo="/noicon.png" group-title="04. Sport",374. Sport 1 FHD - 374. Sport 1 FHD
+http://wrlstr.dvrdns.org:18066/live?channelId=578&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="392" tvg-name="375. DAZN 1 HD" tvg-logo="http://facetv.formea.ba:88/imagess/dazn.png" group-title="04. Sport",375. DAZN 1 HD - 375. DAZN 1 HD
+http://telehetz.dvrdns.org:12345/live?channelId=392&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="279" tvg-name="376. DAZN 2 HD" tvg-logo="/noicon.png" group-title="04. Sport",376. DAZN 2 HD - 376. DAZN 2 HD
+http://telehetz.dvrdns.org:12345/live?channelId=279&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="435" tvg-name="579. SKY Select 9 HD" tvg-logo="/noicon.png" group-title="08. Germany",579. SKY Select 9 HD - 579. SKY Select 9 HD
+http://wrlstr.dvrdns.org:18066/live?channelId=435&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="426" tvg-name="380. FOX SPORT 1 HD" tvg-logo="http://facetv.formea.ba:88/imagess/foxsport.png" group-title="04. Sport",380. FOX SPORT 1 HD - 380. FOX SPORT 1 HD
+http://wrlstr.dvrdns.org:18066/live?channelId=426&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="427" tvg-name="381. FOX SPORT 2 HD" tvg-logo="http://facetv.formea.ba:88/imagess/foxsport2.png" group-title="04. Sport",381. FOX SPORT 2 HD - 381. FOX SPORT 2 HD
+http://telehetz.dvrdns.org:12345/live?channelId=427&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="428" tvg-name="382. FOX SPORT 3 HD" tvg-logo="http://facetv.formea.ba:88/imagess/foxsport3.png" group-title="04. Sport",382. FOX SPORT 3 HD - 382. FOX SPORT 3 HD
+http://wrlstr.dvrdns.org:18066/live?channelId=428&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="429" tvg-name="383. FOX SPORT 4 HD" tvg-logo="http://facetv.formea.ba:88/imagess/foxsports4.png" group-title="04. Sport",383. FOX SPORT 4 HD - 383. FOX SPORT 4 HD
+http://telehetz.dvrdns.org:12345/live?channelId=429&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="447" tvg-name="384. FOX SPORT 5 HD" tvg-logo="/noicon.png" group-title="04. Sport",384. FOX SPORT 5 HD - 384. FOX SPORT 5 HD
+http://wrlstr.dvrdns.org:18066/live?channelId=447&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="449" tvg-name="385. FOX SPORT 6 HD" tvg-logo="/noicon.png" group-title="04. Sport",385. FOX SPORT 6 HD - 385. FOX SPORT 6 HD
+http://telehetz.dvrdns.org:12345/live?channelId=449&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="421" tvg-name="387. BEIN Sport 1 HD" tvg-logo="http://facetv.formea.ba:88/imagess/beinsporthd1.png" group-title="04. Sport",387. BEIN Sport 1 HD - 387. BEIN Sport 1 HD
+http://wrlstr.dvrdns.org:18066/live?channelId=421&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="422" tvg-name="388. BEIN Sport 2 HD" tvg-logo="http://facetv.formea.ba:88/imagess/beinsporthd2.png" group-title="04. Sport",388. BEIN Sport 2 HD - 388. BEIN Sport 2 HD
+http://telehetz.dvrdns.org:12345/live?channelId=422&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="450" tvg-name="400. Ziggo Sport Golf HD" tvg-logo="/noicon.png" group-title="04. Sport",400. Ziggo Sport Golf HD - 400. Ziggo Sport Golf HD
+http://wrlstr.dvrdns.org:18066/live?channelId=450&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="265" tvg-name="410. Cinestar" tvg-logo="http://facetv.formea.ba:88/imagess/cinestartv.png" group-title="05. Film",410. Cinestar - 410. Cinestar
+http://wrlstr.dvrdns.org:18066/live?channelId=265&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="335" tvg-name="411. Cinestar Action" tvg-logo="http://facetv.formea.ba:88/imagess/CinestarAction.png" group-title="05. Film",411. Cinestar Action - 411. Cinestar Action
+http://telehetz.dvrdns.org:12345/live?channelId=335&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="563" tvg-name="413. Cinestar Fantasy" tvg-logo="/noicon.png" group-title="05. Film",413. Cinestar Fantasy - 413. Cinestar Fantasy
+http://telehetz.dvrdns.org:12345/live?channelId=563&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="317" tvg-name="414. Cinestar Premiere 1 HD" tvg-logo="/noicon.png" group-title="05. Film",414. Cinestar Premiere 1 HD - 414. Cinestar Premiere 1 HD
+http://telehetz.dvrdns.org:12345/live?channelId=317&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="318" tvg-name="415. Cinestar Premiere 2 HD" tvg-logo="http://facetv.formea.ba:88/imagess/cinestarpremiere2.png" group-title="05. Film",415. Cinestar Premiere 2 HD - 415. Cinestar Premiere 2 HD
+http://telehetz.dvrdns.org:12345/live?channelId=318&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="93" tvg-name="417. FOX HD" tvg-logo="http://facetv.formea.ba:88/imagess/fox.png" group-title="05. Film",417. FOX HD - 417. FOX HD
+http://wrlstr.dvrdns.org:18066/live?channelId=93&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="94" tvg-name="419. FOX Crime HD" tvg-logo="http://facetv.formea.ba:88/imagess/foxcrime.png" group-title="05. Film",419. FOX Crime HD - 419. FOX Crime HD
+http://wrlstr.dvrdns.org:18066/live?channelId=94&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="95" tvg-name="421. FOX Life HD" tvg-logo="http://facetv.formea.ba:88/imagess/foxlife.png" group-title="05. Film",421. FOX Life HD - 421. FOX Life HD
+http://wrlstr.dvrdns.org:18066/live?channelId=95&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="276" tvg-name="423. FOX Movies HD" tvg-logo="http://hdd2mil.homelinux.net:88/LOGO%20SMANJENI/fox.png" group-title="05. Film",423. FOX Movies HD - 423. FOX Movies HD
+http://wrlstr.dvrdns.org:18066/live?channelId=276&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="90" tvg-name="424. HBO HD" tvg-logo="http://facetv.formea.ba:88/imagess/hbo1nl.png" group-title="05. Film",424. HBO HD - 424. HBO HD
+http://wrlstr.dvrdns.org:18066/live?channelId=90&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="89" tvg-name="425. HBO 2 HD" tvg-logo="http://facetv.formea.ba:88/imagess/hbo2nl.png" group-title="05. Film",425. HBO 2 HD - 425. HBO 2 HD
+http://telehetz.dvrdns.org:12345/live?channelId=89&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="336" tvg-name="426. HBO 3 HD" tvg-logo="http://facetv.formea.ba:88/imagess/hbo3nl.png" group-title="05. Film",426. HBO 3 HD - 426. HBO 3 HD
+http://wrlstr.dvrdns.org:18066/live?channelId=336&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="87" tvg-name="427. CINEMAX HD" tvg-logo="http://facetv.formea.ba:88/imagess/cinemax.png" group-title="05. Film",427. CINEMAX HD - 427. CINEMAX HD
+http://telehetz.dvrdns.org:12345/live?channelId=87&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="88" tvg-name="428. CINEMAX 2 HD" tvg-logo="http://facetv.formea.ba:88/imagess/cinemax2.png" group-title="05. Film",428. CINEMAX 2 HD - 428. CINEMAX 2 HD
+http://wrlstr.dvrdns.org:18066/live?channelId=88&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="263" tvg-name="429. Klasik TV" tvg-logo="http://facetv.formea.ba:88/imagess/klasik.png" group-title="05. Film",429. Klasik TV - 429. Klasik TV
+http://telehetz.dvrdns.org:12345/live?channelId=263&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="380" tvg-name="431. Cinemacious 1" tvg-logo="http://facetv.formea.ba:88/imagess/CINEMACIOUS.png" group-title="05. Film",431. Cinemacious 1 - 431. Cinemacious 1
+http://telehetz.dvrdns.org:12345/live?channelId=380&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="381" tvg-name="432. Cinemacious 2" tvg-logo="http://facetv.formea.ba:88/imagess/CINEMACIOUS.png" group-title="05. Film",432. Cinemacious 2 - 432. Cinemacious 2
+http://wrlstr.dvrdns.org:18066/live?channelId=381&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="382" tvg-name="433. Cinemacious 3" tvg-logo="http://facetv.formea.ba:88/imagess/CINEMACIOUS.png" group-title="05. Film",433. Cinemacious 3 - 433. Cinemacious 3
+http://telehetz.dvrdns.org:12345/live?channelId=382&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="383" tvg-name="434. Cinemacious 4" tvg-logo="http://facetv.formea.ba:88/imagess/CINEMACIOUS.png" group-title="05. Film",434. Cinemacious 4 - 434. Cinemacious 4
+http://wrlstr.dvrdns.org:18066/live?channelId=383&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="384" tvg-name="435. Cinemacious 5" tvg-logo="http://facetv.formea.ba:88/imagess/CINEMACIOUS.png" group-title="05. Film",435. Cinemacious 5 - 435. Cinemacious 5
+http://telehetz.dvrdns.org:12345/live?channelId=384&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="385" tvg-name="436. Cinemacious 6" tvg-logo="http://facetv.formea.ba:88/imagess/CINEMACIOUS.png" group-title="05. Film",436. Cinemacious 6 - 436. Cinemacious 6
+http://wrlstr.dvrdns.org:18066/live?channelId=385&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="386" tvg-name="437. Cinemacious 7" tvg-logo="http://facetv.formea.ba:88/imagess/CINEMACIOUS.png" group-title="05. Film",437. Cinemacious 7 - 437. Cinemacious 7
+http://telehetz.dvrdns.org:12345/live?channelId=386&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="387" tvg-name="438. Cinemacious 8" tvg-logo="http://facetv.formea.ba:88/imagess/CINEMACIOUS.png" group-title="05. Film",438. Cinemacious 8 - 438. Cinemacious 8
+http://wrlstr.dvrdns.org:18066/live?channelId=387&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="96" tvg-name="460. Animal Planet HD" tvg-logo="http://facetv.formea.ba:88/imagess/animal.png" group-title="06. Dokumentarni",460. Animal Planet HD - 460. Animal Planet HD
+http://wrlstr.dvrdns.org:18066/live?channelId=96&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="99" tvg-name="461. Discovery HD" tvg-logo="http://facetv.formea.ba:88/imagess/discovery.png" group-title="06. Dokumentarni",461. Discovery HD - 461. Discovery HD
+http://wrlstr.dvrdns.org:18066/live?channelId=99&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="248" tvg-name="462. Discovery ID HD" tvg-logo="http://facetv.formea.ba:88/imagess/DiscoveryID.png" group-title="06. Dokumentarni",462. Discovery ID HD - 462. Discovery ID HD
+http://wrlstr.dvrdns.org:18066/live?channelId=248&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="213" tvg-name="463. Travel Channel HD" tvg-logo="http://facetv.formea.ba:88/imagess/travel%20chanel.png" group-title="06. Dokumentarni",463. Travel Channel HD - 463. Travel Channel HD
+http://telehetz.dvrdns.org:12345/live?channelId=213&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="250" tvg-name="464. History Channel HD" tvg-logo="http://facetv.formea.ba:88/imagess/historyHD.png" group-title="06. Dokumentarni",464. History Channel HD - 464. History Channel HD
+http://wrlstr.dvrdns.org:18066/live?channelId=250&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="511" tvg-name="465. History Channel 2 HD" tvg-logo="/noicon.png" group-title="06. Dokumentarni",465. History Channel 2 HD - 465. History Channel 2 HD
+http://wrlstr.dvrdns.org:18066/live?channelId=511&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="104" tvg-name="466. Lov & Ribolov" tvg-logo="http://facetv.formea.ba:88/imagess/loviribolov.png" group-title="06. Dokumentarni",466. Lov & Ribolov - 466. Lov & Ribolov
+http://wrlstr.dvrdns.org:18066/live?channelId=104&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="249" tvg-name="467. National Geographic" tvg-logo="http://facetv.formea.ba:88/imagess/nationalgeographicchabelde.png" group-title="06. Dokumentarni",467. National Geographic - 467. National Geographic
+http://wrlstr.dvrdns.org:18066/live?channelId=249&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="344" tvg-name="468. National Geo Wild" tvg-logo="http://facetv.formea.ba:88/imagess/natgeowild.png" group-title="06. Dokumentarni",468. National Geo Wild - 468. National Geo Wild
+http://wrlstr.dvrdns.org:18066/live?channelId=344&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="100" tvg-name="469. Crime Investigation Network" tvg-logo="http://facetv.formea.ba:88/imagess/crimeinvestigation.png" group-title="06. Dokumentarni",469. Crime Investigation Network - 469. Crime Investigation Network
+http://telehetz.dvrdns.org:12345/live?channelId=100&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="420" tvg-name="470. CBS Reality" tvg-logo="http://facetv.formea.ba:88/imagess/cbsreality.png" group-title="06. Dokumentarni",470. CBS Reality - 470. CBS Reality
+http://wrlstr.dvrdns.org:18066/live?channelId=420&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="364" tvg-name="471. AXN" tvg-logo="http://facetv.formea.ba:88/imagess/axn%20sp.png" group-title="06. Dokumentarni",471. AXN - 471. AXN
+http://telehetz.dvrdns.org:12345/live?channelId=364&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="105" tvg-name="472. TLC" tvg-logo="http://facetv.formea.ba:88/imagess/tlc.png" group-title="06. Dokumentarni",472. TLC - 472. TLC
+http://wrlstr.dvrdns.org:18066/live?channelId=105&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="259" tvg-name="473. E! Entertainment TV" tvg-logo="http://facetv.formea.ba:88/imagess/entertainment.png" group-title="06. Dokumentarni",473. E! Entertainment TV - 473. E! Entertainment TV
+http://telehetz.dvrdns.org:12345/live?channelId=259&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="252" tvg-name="474. 24 Kitchen" tvg-logo="http://facetv.formea.ba:88/imagess/24%20kitchen.png" group-title="06. Dokumentarni",474. 24 Kitchen - 474. 24 Kitchen
+http://wrlstr.dvrdns.org:18066/live?channelId=252&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="308" tvg-name="480. MRT 1" tvg-logo="http://facetv.formea.ba:88/imagess/mrt1.png" group-title="01. EX-Yugo",480. MRT 1 - 480. MRT 1
+http://telehetz.dvrdns.org:12345/live?channelId=308&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="309" tvg-name="481. MRT 2" tvg-logo="http://facetv.formea.ba:88/imagess/mrt2.png" group-title="01. EX-Yugo",481. MRT 2 - 481. MRT 2
+http://wrlstr.dvrdns.org:18066/live?channelId=309&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="310" tvg-name="482. MRT 3" tvg-logo="http://facetv.formea.ba:88/imagess/mrt3.png" group-title="01. EX-Yugo",482. MRT 3 - 482. MRT 3
+http://telehetz.dvrdns.org:12345/live?channelId=310&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="267" tvg-name="483. Sitel HD" tvg-logo="http://facetv.formea.ba:88/imagess/sitel.png" group-title="01. EX-Yugo",483. Sitel HD - 483. Sitel HD
+http://wrlstr.dvrdns.org:18066/live?channelId=267&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="313" tvg-name="487. Kanal 5" tvg-logo="http://facetv.formea.ba:88/imagess/kanal5.png" group-title="01. EX-Yugo",487. Kanal 5 - 487. Kanal 5
+http://wrlstr.dvrdns.org:18066/live?channelId=313&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="315" tvg-name="488. Telma" tvg-logo="http://facetv.formea.ba:88/imagess/telma.png" group-title="01. EX-Yugo",488. Telma - 488. Telma
+http://telehetz.dvrdns.org:12345/live?channelId=315&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="316" tvg-name="489. Alfa MK" tvg-logo="http://facetv.formea.ba:88/imagess/alfamk.png" group-title="01. EX-Yugo",489. Alfa MK - 489. Alfa MK
+http://wrlstr.dvrdns.org:18066/live?channelId=316&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="337" tvg-name="490. Folk Club MK" tvg-logo="/noicon.png" group-title="01. EX-Yugo",490. Folk Club MK - 490. Folk Club MK
+http://telehetz.dvrdns.org:12345/live?channelId=337&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="339" tvg-name="492. 24 Vesti" tvg-logo="http://facetv.formea.ba:88/imagess/24vesti.png" group-title="01. EX-Yugo",492. 24 Vesti - 492. 24 Vesti
+http://telehetz.dvrdns.org:12345/live?channelId=339&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="122" tvg-name="500. Das Erste HD" tvg-logo="http://facetv.formea.ba:88/imagess/daserste.png" group-title="08. Germany",500. Das Erste HD - 500. Das Erste HD
+http://wrlstr.dvrdns.org:18066/live?channelId=122&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="123" tvg-name="501. ZDF HD" tvg-logo="http://facetv.formea.ba:88/imagess/zdf.png" group-title="08. Germany",501. ZDF HD - 501. ZDF HD
+http://wrlstr.dvrdns.org:18066/live?channelId=123&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="125" tvg-name="504. RTL DE FHD" tvg-logo="http://facetv.formea.ba:88/imagess/rtlde.png" group-title="08. Germany",504. RTL DE FHD - 504. RTL DE FHD
+http://telehetz.dvrdns.org:12345/live?channelId=125&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="126" tvg-name="506. SAT 1 FHD" tvg-logo="http://facetv.formea.ba:88/imagess/sat1.png" group-title="08. Germany",506. SAT 1 FHD - 506. SAT 1 FHD
+http://wrlstr.dvrdns.org:18066/live?channelId=126&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="127" tvg-name="508. RTL 2 DE FHD" tvg-logo="http://facetv.formea.ba:88/imagess/rtl2de.png" group-title="08. Germany",508. RTL 2 DE FHD - 508. RTL 2 DE FHD
+http://telehetz.dvrdns.org:12345/live?channelId=127&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="128" tvg-name="510. PRO 7 FHD" tvg-logo="http://facetv.formea.ba:88/imagess/pro7.png" group-title="08. Germany",510. PRO 7 FHD - 510. PRO 7 FHD
+http://wrlstr.dvrdns.org:18066/live?channelId=128&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="130" tvg-name="512. KABEL 1 FHD" tvg-logo="http://facetv.formea.ba:88/imagess/kabel1.png" group-title="08. Germany",512. KABEL 1 FHD - 512. KABEL 1 FHD
+http://wrlstr.dvrdns.org:18066/live?channelId=130&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="547" tvg-name="514. VOX FHD" tvg-logo="/noicon.png" group-title="08. Germany",514. VOX FHD - 514. VOX FHD
+http://wrlstr.dvrdns.org:18066/live?channelId=547&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="278" tvg-name="515. DMAX FHD" tvg-logo="http://facetv.formea.ba:88/imagess/dmax.png" group-title="08. Germany",515. DMAX FHD - 515. DMAX FHD
+http://wrlstr.dvrdns.org:18066/live?channelId=278&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="129" tvg-name="516. SIXX FHD" tvg-logo="http://facetv.formea.ba:88/imagess/sixx.png" group-title="08. Germany",516. SIXX FHD - 516. SIXX FHD
+http://telehetz.dvrdns.org:12345/live?channelId=129&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="546" tvg-name="517. SAT 1 GOLD HD" tvg-logo="/noicon.png" group-title="08. Germany",517. SAT 1 GOLD HD - 517. SAT 1 GOLD HD
+http://telehetz.dvrdns.org:12345/live?channelId=546&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="545" tvg-name="518. Pro7 MAXX HD" tvg-logo="/noicon.png" group-title="08. Germany",518. Pro7 MAXX HD - 518. Pro7 MAXX HD
+http://wrlstr.dvrdns.org:18066/live?channelId=545&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="368" tvg-name="520. RTL PASSION HD" tvg-logo="http://facetv.formea.ba:88/imagess/rtlpassion.png" group-title="08. Germany",520. RTL PASSION HD - 520. RTL PASSION HD
+http://wrlstr.dvrdns.org:18066/live?channelId=368&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="132" tvg-name="521. SUPER RTL HD" tvg-logo="http://facetv.formea.ba:88/imagess/superrtl.png" group-title="08. Germany",521. SUPER RTL HD - 521. SUPER RTL HD
+http://telehetz.dvrdns.org:12345/live?channelId=132&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="133" tvg-name="522. NICKELODEON HD" tvg-logo="http://facetv.formea.ba:88/imagess/nickelodeon.png" group-title="08. Germany",522. NICKELODEON HD - 522. NICKELODEON HD
+http://wrlstr.dvrdns.org:18066/live?channelId=133&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="223" tvg-name="523. DISNEY Channel FHD" tvg-logo="http://facetv.formea.ba:88/imagess/disneychannel.png" group-title="08. Germany",523. DISNEY Channel FHD - 523. DISNEY Channel FHD
+http://wrlstr.dvrdns.org:18066/live?channelId=223&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="212" tvg-name="524. KIKA HD" tvg-logo="http://facetv.formea.ba:88/imagess/kika.png" group-title="08. Germany",524. KIKA HD - 524. KIKA HD
+http://telehetz.dvrdns.org:12345/live?channelId=212&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="543" tvg-name="525. ARTE HD" tvg-logo="/noicon.png" group-title="08. Germany",525. ARTE HD - 525. ARTE HD
+http://wrlstr.dvrdns.org:18066/live?channelId=543&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="370" tvg-name="527. NTV HD" tvg-logo="http://facetv.formea.ba:88/imagess/ntv.png" group-title="08. Germany",527. NTV HD - 527. NTV HD
+http://wrlstr.dvrdns.org:18066/live?channelId=370&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="542" tvg-name="530. TELE 5 FHD" tvg-logo="/noicon.png" group-title="08. Germany",530. TELE 5 FHD - 530. TELE 5 FHD
+http://telehetz.dvrdns.org:12345/live?channelId=542&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="134" tvg-name="551. Sky Cinema Premieren HD" tvg-logo="http://facetv.formea.ba:88/imagess/skycinema.png" group-title="08. Germany",551. Sky Cinema Premieren HD - 551. Sky Cinema Premieren HD
+http://wrlstr.dvrdns.org:18066/live?channelId=134&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="138" tvg-name="553. SKY Cinema +24 HD" tvg-logo="http://facetv.formea.ba:88/imagess/skycinema+24.png" group-title="08. Germany",553. SKY Cinema +24 HD - 553. SKY Cinema +24 HD
+http://wrlstr.dvrdns.org:18066/live?channelId=138&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="135" tvg-name="554. SKY Action HD" tvg-logo="http://facetv.formea.ba:88/imagess/skyaction.png" group-title="08. Germany",554. SKY Action HD - 554. SKY Action HD
+http://wrlstr.dvrdns.org:18066/live?channelId=135&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="321" tvg-name="555. SKY Atlantic HD" tvg-logo="http://facetv.formea.ba:88/imagess/skyatlantic.png" group-title="08. Germany",555. SKY Atlantic HD - 555. SKY Atlantic HD
+http://wrlstr.dvrdns.org:18066/live?channelId=321&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="365" tvg-name="556. SKY Hits HD" tvg-logo="http://facetv.formea.ba:88/imagess/skyhits.png" group-title="08. Germany",556. SKY Hits HD - 556. SKY Hits HD
+http://wrlstr.dvrdns.org:18066/live?channelId=365&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="367" tvg-name="557. SKY Krimi HD" tvg-logo="http://facetv.formea.ba:88/imagess/skykrimi.png" group-title="08. Germany",557. SKY Krimi HD - 557. SKY Krimi HD
+http://wrlstr.dvrdns.org:18066/live?channelId=367&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="495" tvg-name="558. SKY Cinema Nostalgie" tvg-logo="/noicon.png" group-title="08. Germany",558. SKY Cinema Nostalgie - 558. SKY Cinema Nostalgie
+http://wrlstr.dvrdns.org:18066/live?channelId=495&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="461" tvg-name="559. SKY Cinema Family" tvg-logo="/noicon.png" group-title="08. Germany",559. SKY Cinema Family - 559. SKY Cinema Family
+http://telehetz.dvrdns.org:12345/live?channelId=461&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="322" tvg-name="561. 13th Street HD" tvg-logo="/noicon.png" group-title="08. Germany",561. 13th Street HD - 561. 13th Street HD
+http://wrlstr.dvrdns.org:18066/live?channelId=322&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="136" tvg-name="562. Fox DE HD" tvg-logo="http://facetv.formea.ba:88/imagess/fox.png" group-title="08. Germany",562. Fox DE HD - 562. Fox DE HD
+http://wrlstr.dvrdns.org:18066/live?channelId=136&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="319" tvg-name="563. TNT Film HD" tvg-logo="/noicon.png" group-title="08. Germany",563. TNT Film HD - 563. TNT Film HD
+http://wrlstr.dvrdns.org:18066/live?channelId=319&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="320" tvg-name="564. TNT Serie HD" tvg-logo="http://facetv.formea.ba:88/imagess/TNTSerieHD.png" group-title="08. Germany",564. TNT Serie HD - 564. TNT Serie HD
+http://wrlstr.dvrdns.org:18066/live?channelId=320&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="639" tvg-name="565. TNT Comedy HD" tvg-logo="/noicon.png" group-title="08. Germany",565. TNT Comedy HD - 565. TNT Comedy HD
+http://wrlstr.dvrdns.org:18066/live?channelId=639&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="398" tvg-name="566. Universal Channel HD" tvg-logo="http://facetv.formea.ba:88/imagess/skyuniversal.png" group-title="08. Germany",566. Universal Channel HD - 566. Universal Channel HD
+http://wrlstr.dvrdns.org:18066/live?channelId=398&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="61" tvg-name="567. SYFY HD" tvg-logo="http://facetv.formea.ba:88/imagess/syfi.png" group-title="08. Germany",567. SYFY HD - 567. SYFY HD
+http://wrlstr.dvrdns.org:18066/live?channelId=61&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="541" tvg-name="568. SKY Emotion" tvg-logo="/noicon.png" group-title="08. Germany",568. SKY Emotion - 568. SKY Emotion
+http://wrlstr.dvrdns.org:18066/live?channelId=541&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="139" tvg-name="569. SKY Comedy" tvg-logo="http://facetv.formea.ba:88/imagess/skycomedy.png" group-title="08. Germany",569. SKY Comedy - 569. SKY Comedy
+http://wrlstr.dvrdns.org:18066/live?channelId=139&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="540" tvg-name="570. SKY 1 HD" tvg-logo="/noicon.png" group-title="08. Germany",570. SKY 1 HD - 570. SKY 1 HD
+http://wrlstr.dvrdns.org:18066/live?channelId=540&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="539" tvg-name="571. SKY Select 1 HD" tvg-logo="/noicon.png" group-title="08. Germany",571. SKY Select 1 HD - 571. SKY Select 1 HD
+http://telehetz.dvrdns.org:12345/live?channelId=539&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="538" tvg-name="572. SKY Select 2 HD" tvg-logo="/noicon.png" group-title="08. Germany",572. SKY Select 2 HD - 572. SKY Select 2 HD
+http://wrlstr.dvrdns.org:18066/live?channelId=538&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="537" tvg-name="573. SKY Select 3 HD" tvg-logo="/noicon.png" group-title="08. Germany",573. SKY Select 3 HD - 573. SKY Select 3 HD
+http://wrlstr.dvrdns.org:18066/live?channelId=537&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="536" tvg-name="574. SKY Select 4 HD" tvg-logo="/noicon.png" group-title="08. Germany",574. SKY Select 4 HD - 574. SKY Select 4 HD
+http://wrlstr.dvrdns.org:18066/live?channelId=536&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="535" tvg-name="575. SKY Select 5 HD" tvg-logo="/noicon.png" group-title="08. Germany",575. SKY Select 5 HD - 575. SKY Select 5 HD
+http://wrlstr.dvrdns.org:18066/live?channelId=535&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="534" tvg-name="576. SKY Select 6 HD" tvg-logo="/noicon.png" group-title="08. Germany",576. SKY Select 6 HD - 576. SKY Select 6 HD
+http://wrlstr.dvrdns.org:18066/live?channelId=534&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="533" tvg-name="577. SKY Select 7 HD" tvg-logo="/noicon.png" group-title="08. Germany",577. SKY Select 7 HD - 577. SKY Select 7 HD
+http://telehetz.dvrdns.org:12345/live?channelId=533&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="532" tvg-name="578. SKY Select 8 HD" tvg-logo="/noicon.png" group-title="08. Germany",578. SKY Select 8 HD - 578. SKY Select 8 HD
+http://wrlstr.dvrdns.org:18066/live?channelId=532&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="141" tvg-name="582. Discovery DE HD" tvg-logo="http://facetv.formea.ba:88/imagess/discovery.png" group-title="08. Germany",582. Discovery DE HD - 582. Discovery DE HD
+http://wrlstr.dvrdns.org:18066/live?channelId=141&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="97" tvg-name="591. National Geo DE HD" tvg-logo="http://facetv.formea.ba:88/imagess/nationalgeographicchabelde.png" group-title="08. Germany",591. National Geo DE HD - 591. National Geo DE HD
+http://wrlstr.dvrdns.org:18066/live?channelId=97&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="356" tvg-name="583. National Geo Wild DE HD" tvg-logo="http://facetv.formea.ba:88/imagess/natgeowild.png" group-title="08. Germany",583. National Geo Wild DE HD - 583. National Geo Wild DE HD
+http://wrlstr.dvrdns.org:18066/live?channelId=356&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="101" tvg-name="593. History Channel DE HD" tvg-logo="http://facetv.formea.ba:88/imagess/historyHD.png" group-title="08. Germany",593. History Channel DE HD - 593. History Channel DE HD
+http://wrlstr.dvrdns.org:18066/live?channelId=101&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="445" tvg-name="594. Spiegel TV Wissen HD" tvg-logo="/noicon.png" group-title="08. Germany",594. Spiegel TV Wissen HD - 594. Spiegel TV Wissen HD
+http://wrlstr.dvrdns.org:18066/live?channelId=445&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="454" tvg-name="601. Npo 1" tvg-logo="/noicon.png" group-title="09. Netherlands",601. Npo 1 - 601. Npo 1
+http://telehetz.dvrdns.org:12345/live?channelId=454&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="455" tvg-name="602. Npo 2" tvg-logo="/noicon.png" group-title="09. Netherlands",602. Npo 2 - 602. Npo 2
+http://telehetz.dvrdns.org:12345/live?channelId=455&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="448" tvg-name="603. Npo 3" tvg-logo="/noicon.png" group-title="09. Netherlands",603. Npo 3 - 603. Npo 3
+http://telehetz.dvrdns.org:12345/live?channelId=448&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="456" tvg-name="604. rtl 4" tvg-logo="/noicon.png" group-title="09. Netherlands",604. rtl 4 - 604. rtl 4
+http://telehetz.dvrdns.org:12345/live?channelId=456&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="51" tvg-name="605. rtl 5" tvg-logo="/noicon.png" group-title="09. Netherlands",605. rtl 5 - 605. rtl 5
+http://telehetz.dvrdns.org:12345/live?channelId=51&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="66" tvg-name="606. rtl 7" tvg-logo="/noicon.png" group-title="09. Netherlands",606. rtl 7 - 606. rtl 7
+http://telehetz.dvrdns.org:12345/live?channelId=66&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="460" tvg-name="611. Veronica / Disney nl" tvg-logo="/noicon.png" group-title="09. Netherlands",611. Veronica / Disney nl - 611. Veronica / Disney nl
+http://telehetz.dvrdns.org:12345/live?channelId=460&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="306" tvg-name="702. Kanal 5 HD" tvg-logo="/noicon.png" group-title="14. Bonus programi",702. Kanal 5 HD - 702. Kanal 5 HD
+http://telehetz.dvrdns.org:12345/live?channelId=306&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="527" tvg-name="710. TV4" tvg-logo="/noicon.png" group-title="14. Bonus programi",710. TV4 - 710. TV4
+http://telehetz.dvrdns.org:12345/live?channelId=527&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="526" tvg-name="713. SVT 1" tvg-logo="/noicon.png" group-title="14. Bonus programi",713. SVT 1 - 713. SVT 1
+http://telehetz.dvrdns.org:12345/live?channelId=526&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="525" tvg-name="714. SVT 2" tvg-logo="/noicon.png" group-title="14. Bonus programi",714. SVT 2 - 714. SVT 2
+http://telehetz.dvrdns.org:12345/live?channelId=525&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="524" tvg-name="715. C More Live" tvg-logo="/noicon.png" group-title="14. Bonus programi",715. C More Live - 715. C More Live
+http://telehetz.dvrdns.org:12345/live?channelId=524&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="333" tvg-name="716. C More First" tvg-logo="http://facetv.formea.ba:88/imagess/trtv8.png" group-title="14. Bonus programi",716. C More First - 716. C More First
+http://telehetz.dvrdns.org:12345/live?channelId=333&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="523" tvg-name="718. C More Series" tvg-logo="/noicon.png" group-title="14. Bonus programi",718. C More Series - 718. C More Series
+http://telehetz.dvrdns.org:12345/live?channelId=523&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="225" tvg-name="801. RTK" tvg-logo="http://facetv.formea.ba:88/imagess/RTK1Sat(Kosovo).png" group-title="14. Bonus programi",801. RTK - 801. RTK
+http://wrlstr.dvrdns.org:18066/live?channelId=225&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="640" tvg-name="440.MAX SELECT 1 HD test" tvg-logo="/noicon.png" group-title="05. Film",440.MAX SELECT 1 HD test - 440.MAX SELECT 1 HD test
+http://wrlstr.dvrdns.org:18066/live?channelId=640&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="641" tvg-name="441.MAX SELECT 2 HD test" tvg-logo="/noicon.png" group-title="05. Film",441.MAX SELECT 2 HD test - 441.MAX SELECT 2 HD test
+http://wrlstr.dvrdns.org:18066/live?channelId=641&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="642" tvg-name="442.MAX SELECT 3 HD test" tvg-logo="/noicon.png" group-title="05. Film",442.MAX SELECT 3 HD test - 442.MAX SELECT 3 HD test
+http://wrlstr.dvrdns.org:18066/live?channelId=642&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="643" tvg-name="443.MAX SELECT 4 HD test" tvg-logo="/noicon.png" group-title="05. Film",443.MAX SELECT 4 HD test - 443.MAX SELECT 4 HD test
+http://wrlstr.dvrdns.org:18066/live?channelId=643&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="644" tvg-name="444.MAX SELECT 5 HD test" tvg-logo="/noicon.png" group-title="05. Film",444.MAX SELECT 5 HD test - 444.MAX SELECT 5 HD test
+http://wrlstr.dvrdns.org:18066/live?channelId=644&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="645" tvg-name="445.MAX SELECT 6 HD test" tvg-logo="/noicon.png" group-title="05. Film",445.MAX SELECT 6 HD test - 445.MAX SELECT 6 HD test
+http://wrlstr.dvrdns.org:18066/live?channelId=645&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="646" tvg-name="446.MAX SELECT 7 HD test" tvg-logo="/noicon.png" group-title="05. Film",446.MAX SELECT 7 HD test - 446.MAX SELECT 7 HD test
+http://wrlstr.dvrdns.org:18066/live?channelId=646&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="647" tvg-name="447.MAX SELECT 8 HD test" tvg-logo="/noicon.png" group-title="05. Film",447.MAX SELECT 8 HD test - 447.MAX SELECT 8 HD test
+http://wrlstr.dvrdns.org:18066/live?channelId=647&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="648" tvg-name="448.MAX SELECT 9 HD test" tvg-logo="/noicon.png" group-title="05. Film",448.MAX SELECT 9 HD test - 448.MAX SELECT 9 HD test
+http://wrlstr.dvrdns.org:18066/live?channelId=648&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="649" tvg-name="449.MAX SELECT 10 HD test" tvg-logo="/noicon.png" group-title="05. Film",449.MAX SELECT 10 HD test - 449.MAX SELECT 10 HD test
+http://wrlstr.dvrdns.org:18066/live?channelId=649&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="650" tvg-name="450.MAX SELECT 11 HD test" tvg-logo="/noicon.png" group-title="05. Film",450.MAX SELECT 11 HD test - 450.MAX SELECT 11 HD test
+http://wrlstr.dvrdns.org:18066/live?channelId=650&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
+#EXTINF:-1 tvg-id="651" tvg-name="130.TV BOR" tvg-logo="/noicon.png" group-title="01. EX-Yugo",130.TV BOR - 130.TV BOR
+http://telehetz.dvrdns.org:12345/live?channelId=651&uid=116&deviceUser=naimjh&devicePass=yMwU6bzj
